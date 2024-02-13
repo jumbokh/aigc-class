@@ -70,48 +70,34 @@ LLM 文字生成模型的應用
 提升解決問題的能力和創造力
 ```
 ### References
-```
-生成式 AI 相關的論文和書籍：
 
-論文
+#### 生成式 AI 相關的論文和書籍：
 
-Attention Is All You Need: <已移除無效網址>
-Generative Pre-training Transformer 3: <已移除無效網址>
-Diffusion Models Beat GANs on Image Synthesis: <已移除無效網址>
-DALL-E 2: An Image Generator That Uses Text Descriptions to Create Realistic Images: <已移除無效網址>
-VQGAN+CLIP: A Text-Guided Image Generator: <已移除無效網址>
-書籍
+### 書籍
 
-生成式人工智能：AIGC的邏輯與應用: https://www.books.com.tw/products/CN11897192
-擴散模型：生成式AI模型的理論、應用與代碼實踐: https://www.books.com.tw/products/CN11904844
-其他資源
+* 生成式人工智能：AIGC的邏輯與應用: https://www.books.com.tw/products/CN11897192
+     * 本書介紹了生成式人工智能（AIGC）的基本原理、技術和應用。AIGC 是一種能夠生成新資料的人工智能技術，它在自然語言處理、電腦視覺、音樂創作等領域有著廣泛的應用前景。
+* 擴散模型：生成式AI模型的理論、應用與代碼實踐: https://www.books.com.tw/products/CN11904844
+     * 本書介紹了擴散模型的理論、應用和代碼實踐。擴散模型是一種新的生成式模型，它可以生成更高質量的圖像，並且比生成對抗網路（GAN）更易於訓練。
+* 生成式 AI 學習指南: [https://www.jdla.org/document/]
+* 生成式 AI 社群: https://www.reddit.com/r/generative/
 
-生成式 AI 學習指南: <已移除無效網址>
-生成式 AI 社群: https://www.reddit.com/r/generative/
-論文
+### 論文
 
-Attention Is All You Need: <已移除無效網址>
-這篇論文是 Transformer 模型的提出論文。Transformer 模型是一種採用自注意力機制的深度學習模型，這一機制可以按輸入資料各部分重要性的不同而分配不同的權重。該模型主要用於自然語言處理（NLP）與電腦視覺（CV）領域。
+* Attention Is All You Need: [https://arxiv.org/pdf/1706.03762.pdf]
+    * 這篇論文是 Transformer 模型的提出論文。Transformer 模型是一種採用自注意力機制的深度學習模型，這一機制可以按輸入資料各部分重要性的不同而分配不同的權重。該模型主要用於自然語言處理（NLP）與電腦視覺（CV）領域。
 
-Generative Pre-training Transformer 3: <已移除無效網址>
-這篇論文是 GPT-3 模型的提出論文。GPT-3 模型是一種大型語言模型（LLM），它使用大量的文字資料進行訓練，可以生成類似人類的文字。
+* Generative Pre-training Transformer 3: [https://pianalytix.com/generative-pre-trained-transformer-3-gpt-3/]
+    * 這篇論文是 GPT-3 模型的提出論文。GPT-3 模型是一種大型語言模型（LLM），它使用大量的文字資料進行訓練，可以生成類似人類的文字。
 
-Diffusion Models Beat GANs on Image Synthesis: <已移除無效網址>
-這篇論文提出了一種新的生成式模型，稱為擴散模型。擴散模型可以生成更高質量的圖像，並且比生成對抗網路（GAN）更易於訓練。
+* Diffusion Models Beat GANs on Image Synthesis: [https://arxiv.org/abs/2105.05233]
+    * 這篇論文提出了一種新的生成式模型，稱為擴散模型。擴散模型可以生成更高質量的圖像，並且比生成對抗網路（GAN）更易於訓練。
 
-DALL-E 2: An Image Generator That Uses Text Descriptions to Create Realistic Images: <已移除無效網址>
-DALL-E 2 是 OpenAI 開發的一款圖像生成工具。它可以使用文字描述來生成逼真的圖像。
+* DALL-E 2: An Image Generator That Uses Text Descriptions to Create Realistic Images: [https://openai.com/dall-e-2]
+    * DALL-E 2 是 OpenAI 開發的一款圖像生成工具。它可以使用文字描述來生成逼真的圖像。
 
-VQGAN+CLIP: A Text-Guided Image Generator: <已移除無效網址>
-VQGAN+CLIP 是 Google AI 開發的一款圖像生成工具。它使用向量量化生成對抗網路（VQGAN）和 CLIP 模型來生成圖像。
+* VQGAN+CLIP: A Text-Guided Image Generator: [https://www.semanticscholar.org/reader/6979ce65b9f657672cd3a0b9217ead51511c1838]
+    * VQGAN+CLIP 是 Google AI 開發的一款圖像生成工具。它使用向量量化生成對抗網路（VQGAN）和 CLIP 模型來生成圖像。
 
-書籍
-
-生成式人工智能：AIGC的邏輯與應用: https://www.books.com.tw/products/CN11897192
-本書介紹了生成式人工智能（AIGC）的基本原理、技術和應用。AIGC 是一種能夠生成新資料的人工智能技術，它在自然語言處理、電腦視覺、音樂創作等領域有著廣泛的應用前景。
-
-擴散模型：生成式AI模型的理論、應用與代碼實踐: https://www.books.com.tw/products/CN11904844
-本書介紹了擴散模型的理論、應用和代碼實踐。擴散模型是一種新的生成式模型，它可以生成更高質量的圖像，並且比生成對抗網路（GAN）更易於訓練。
-```
 #### Books:
 * ![book](https://github.com/jumbokh/aigc-class/blob/main/images/book-1.JPG)
