@@ -69,3 +69,5 @@ LLM 文字生成模型的應用
 學會使用生成式 AI 工具和模型
 提升解決問題的能力和創造力
 ```
+### References
+* ![book](https://github.com/jumbokh/aigc-class/blob/main/images/book-1.JPG)
