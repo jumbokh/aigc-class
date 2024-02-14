@@ -54,3 +54,4 @@
 * 彩色油畫混合潑墨畫，高衩短裙，短燙捲髮辣妹，中國風旗袍藍白色系服裝，細緻臉孔，8K影像的電影海報
 * fullcolor, Alcohol ink painting, render, Portrait, close up, negative space use, red background, Chinese dragon, flower, golden sketch, words happy new year
 * Film photo style, automatic camera Photos, film grain, Depth of field, dark lights, realistic skin, Rough skin, girl, indoors
+* film photo, moonbeam, moon, girl, dark night, fantasy beach, glowing waves, bioluminescence, subsurface scattering, low-body in the sea, profile, Shimmer
