@@ -52,3 +52,4 @@
 * Film photo style, automatic camera Photos, film grain, Depth of field, dark lights, realistic skin, Rough skin, skinAsia girl, chinese clothes, at taipei street, cowboy shot, look back
 * film grain, Film photo style, realistic skin, Rough skin, lens flare, sumbeam, backlight, girl, nature,
 * 彩色油畫混合潑墨畫，高衩短裙，短燙捲髮辣妹，中國風旗袍藍白色系服裝，細緻臉孔，8K影像的電影海報
+* fullcolor, Alcohol ink painting, render, Portrait, close up, negative space use, red background, Chinese dragon, flower, golden sketch, words happy new year
