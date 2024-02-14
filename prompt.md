@@ -55,3 +55,4 @@
 * fullcolor, Alcohol ink painting, render, Portrait, close up, negative space use, red background, Chinese dragon, flower, golden sketch, words happy new year
 * Film photo style, automatic camera Photos, film grain, Depth of field, dark lights, realistic skin, Rough skin, girl, indoors
 * film photo, moonbeam, moon, girl, dark night, fantasy beach, glowing waves, bioluminescence, subsurface scattering, low-body in the sea, profile, Shimmer
+* fifty-fifty photo, film grain, blue sky, white cloud, lens flare, ultra details lighting and shadow, waves foreground, girl, wet hair, sweat on the face, low-body in the sea, bright sea, Coral reef, close up, look viewer
