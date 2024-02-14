@@ -1,4 +1,5 @@
 ## bing prompt
+* ![girl](https://github.com/jumbokh/aigc-class/blob/main/images/girlDragon.jpg)
 ## url: https://www.bing.com/images/create?FORM=IRPGEN
 * 一個真實逼真的3D Instagram標誌的全息影像，放置在一個透明的大正方形展示盒內。內部包含一個QR碼和關注者和朋友數量和一個3D金印的使用者名稱 <Shirley Li> 這個全息影像設置在一個玻璃方形的中央，呈現出現代Instagram的元素氛圍以及。場景中有一位年輕有型的台灣女孩，穿著水手制服短裙，手拿筆電，頭髮是黑色的。周圍有一些酷炫的配件，營造出一種時尚魔幻的氛圍。
 * 一個台灣女孩，無袖旗袍，在夜晚的庭院裡，使衣物化做流動的金色發光透明液體潑灑在地濺製成一條中國龍與飛濺的金幣，跳舞姿式姿態奔放，真實風格，廣角，超高品質，精緻的細節
