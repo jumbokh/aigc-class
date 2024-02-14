@@ -50,3 +50,4 @@
 * 齊白石水墨畫的風格 ,白鹤图, 老舊色 ， 可以加黄昏/水彩
 * 山水畫，Zosterops simplex，綠葉，慕夏風格
 * Film photo style, automatic camera Photos, film grain, Depth of field, dark lights, realistic skin, Rough skin, skinAsia girl, chinese clothes, at taipei street, cowboy shot, look back
+* film grain, Film photo style, realistic skin, Rough skin, lens flare, sumbeam, backlight, girl, nature,
