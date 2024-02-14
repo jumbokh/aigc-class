@@ -57,3 +57,5 @@
 * film photo, moonbeam, moon, girl, dark night, fantasy beach, glowing waves, bioluminescence, subsurface scattering, low-body in the sea, profile, Shimmer
 * fifty-fifty photo, film grain, blue sky, white cloud, lens flare, ultra details lighting and shadow, waves foreground, girl, wet hair, sweat on the face, low-body in the sea, bright sea, Coral reef, close up, look viewer
 * 俯視圖，在簡易木盒內，只有一隻蝴蝶標本，混合超級英雄(superhero的英文名稱)的風格，(主體顔色)。(代表物)點綴在翅膀上。 電影寫實感，重視細節，32k。
+* 劍子仙跡
+逼真塑料模型，一位身穿白色華麗的長袍，腳踩長靴的35歲中國俠客，全身展現在廣角遠景的32K畫面中。他滿頭白色的長髮，如同三清道祖的道教頭冠，顯示出他的高貴和豁達開朗的氣質。背景是百花盛開的涼亭邊，他手拿一把精雕細琢的長劍，散發出令人感到安心的力量。他擺出戰鬥姿勢，他面容英俊有氣質，眉清目秀沉穩內斂，眼神帶有正義感，顯示出他的堅毅和隨和不與人爭的態度。
