@@ -49,3 +49,4 @@
 * 一朵藍色的Lycoris radiata(彼岸花)在極光中綻放，它的花瓣[細瘦短]而飄逸，上面刻畫著精緻的線條和圖案。花瓣[[半透明]]，crystal 有著水晶般的質感，[向四周輻射]，展現出優雅的姿態。 [細短的花瓣]周圍有水珠。 花朵的核心發亮，是照亮整朵花的光源。電影海報風格 32K高清
 * 齊白石水墨畫的風格 ,白鹤图, 老舊色 ， 可以加黄昏/水彩
 * 山水畫，Zosterops simplex，綠葉，慕夏風格
+* Film photo style, automatic camera Photos, film grain, Depth of field, dark lights, realistic skin, Rough skin, skinAsia girl, chinese clothes, at taipei street, cowboy shot, look back
