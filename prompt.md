@@ -1,4 +1,8 @@
 ## bing prompt
+```
+可愛中國小女孩，身穿小旗袍，慶祝中國春節，用發光仙女棒滑動形成簡易、簡單發光金龍線條，背景是櫻花宮殿夜色，照片品質
+3D立體娃娃，中國春節，燈籠，牡丹花，元寶，舞龍環繞，紅色背景 後來加上-飛翔，小氣泡
+```
 * ![girl](https://github.com/jumbokh/aigc-class/blob/main/images/girlDragon.jpg)
 ## url: https://www.bing.com/images/create?FORM=IRPGEN
 * 一個真實逼真的3D Instagram標誌的全息影像，放置在一個透明的大正方形展示盒內。內部包含一個QR碼和關注者和朋友數量和一個3D金印的使用者名稱 <Shirley Li> 這個全息影像設置在一個玻璃方形的中央，呈現出現代Instagram的元素氛圍以及。場景中有一位年輕有型的台灣女孩，穿著水手制服短裙，手拿筆電，頭髮是黑色的。周圍有一些酷炫的配件，營造出一種時尚魔幻的氛圍。
@@ -19,7 +23,7 @@
 * Snowdrop season Prompt: detailed watercolor painting of daffodils and snowdrops on a beautiful woodland floor. Softly backlit by a pale winter sun
 * 雪花蓮季節提示：在美麗的林地地板上繪製水仙花和雪花蓮的詳細水彩畫。 冬日蒼白的陽光下柔和的背光
 * very up close of a Van Eyck painted portrait of a young beautiful woman who is wearing a pastel silk slip dress and beautiful hairstyle,palace setting --chaos 26 --ar 7:10 --stylize 777 --v 6.0
-* 可愛中國小女孩，身穿小旗袍，慶祝中國春節，用發光仙女棒滑動形成簡易、簡單發光金龍線條，背景是櫻花宮殿夜色，照片品質
+可愛中國小女孩，身穿小旗袍，慶祝中國春節，用發光仙女棒滑動形成簡易、簡單發光金龍線條，背景是櫻花宮殿夜色，照片品質
 * 3D立體娃娃，中國春節，燈籠，牡丹花，元寶，舞龍環繞，紅色背景 後來加上-飛翔，小氣泡
 * 8k, best quality, realistic, ultra detail, photo realistic, Increase quality, a photo of a 30year taiwan girl standing in a field with a scarf, voluminous mass,, serene faces, jagged edges, navy, natural beauty, full-body photo,
 * 一位美麗台灣女孩在高雄流行音樂中心的千姿百態，捕捉愉悅表情，微笑，高畫質，超逼真，超寫實，HDR， 全身照，回眸一笑，
