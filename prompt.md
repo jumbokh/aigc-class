@@ -1,7 +1,6 @@
 ## bing prompt
 ```
 可愛中國小女孩，身穿小旗袍，慶祝中國春節，用發光仙女棒滑動形成簡易、簡單發光金龍線條，背景是櫻花宮殿夜色，照片品質
-3D立體娃娃，中國春節，燈籠，牡丹花，元寶，舞龍環繞，紅色背景 後來加上-飛翔，小氣泡
 ```
 * ![girl](https://github.com/jumbokh/aigc-class/blob/main/images/girlDragon.jpg)
 ## url: https://www.bing.com/images/create?FORM=IRPGEN
