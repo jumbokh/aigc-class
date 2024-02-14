@@ -56,3 +56,4 @@
 * Film photo style, automatic camera Photos, film grain, Depth of field, dark lights, realistic skin, Rough skin, girl, indoors
 * film photo, moonbeam, moon, girl, dark night, fantasy beach, glowing waves, bioluminescence, subsurface scattering, low-body in the sea, profile, Shimmer
 * fifty-fifty photo, film grain, blue sky, white cloud, lens flare, ultra details lighting and shadow, waves foreground, girl, wet hair, sweat on the face, low-body in the sea, bright sea, Coral reef, close up, look viewer
+* 俯視圖，在簡易木盒內，只有一隻蝴蝶標本，混合超級英雄(superhero的英文名稱)的風格，(主體顔色)。(代表物)點綴在翅膀上。 電影寫實感，重視細節，32k。
