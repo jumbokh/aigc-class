@@ -63,3 +63,17 @@
 * "Good Morning",bird,very minimal plumeria sheet of flowers,sunshine
 * "Be Happy", Crafted by a yarn, a 3D bird Cissa chinensis on a tree branch, leaf and flower on the branch tip. ray tracing, photography
 *  "Be Happy", joyful three birds on tree, in the style of minimalistic drawings, white background, ultrafine detail, painted illustrations, serene faces
+*  "good luck", the cutest little penguin in the world wearing winter jacket, goggles and yellow boots, white background, 3d render
+* text "Good Morning", Elegant composition of a sailboat on calm waves near an island
+* "Be positive", Crafted by a yarn, a 3D bird Cissa chinensis on a tree branch, leaf and flower on the branch tip. ray tracing, photograph
+* text "Good Morning", A green rice field with a huge cherry tree blooming in the middle, Backlighting, mosaic style, 64K, hyper quality
+* text "Good Morning", detailed watercolor painting of flower, Softly backlit by a pale winter sun
+* text "Good Luck",  White butterfly sitting on a lavender flower in beautiful lighting
+* text "Good Morning", Springtime. Spring Flowers in Sunlight. Outdoor Nature, copy space
+* "Good Morning", Closeup Macro picture of flowers, F2.8 DG Macro Lens, Shadows, Color Grading, Saturation, HDR, realistic, Texture, Contrast, Detail, Vibrant
+* text "Good Morning" , beautiful elegant minimal design, illustration, white background
+* Text "Good Morning", picturesque landscape painting, Realistic photography, sunny
+* Text "Good Morning", make a stunning nature picture, photo, ultra hd, 4k
+* text "Good Morning", Morning dew drops on the leaves, micro photograpl, photography, detailed, Mist
+* text "Good Morning", Water droplet flowers are beautiful
+* 
