@@ -60,3 +60,6 @@
 * 劍子仙跡
 逼真塑料模型，一位身穿白色華麗的長袍，腳踩長靴的35歲中國俠客，全身展現在廣角遠景的32K畫面中。他滿頭白色的長髮，如同三清道祖的道教頭冠，顯示出他的高貴和豁達開朗的氣質。背景是百花盛開的涼亭邊，他手拿一把精雕細琢的長劍，散發出令人感到安心的力量。他擺出戰鬥姿勢，他面容英俊有氣質，眉清目秀沉穩內斂，眼神帶有正義感，顯示出他的堅毅和隨和不與人爭的態度。
 南無加特林菩薩$細節$，肌肉發達，拿 大型 重型 sniper 步槍 $高品質$，背後 日輪，姿態 優雅，超廣角，超高畫質，photoreality，8K分辨率，捕捉表情，細膩光影
+* "Good Morning",bird,very minimal plumeria sheet of flowers,sunshine
+* "Be Happy", Crafted by a yarn, a 3D bird Cissa chinensis on a tree branch, leaf and flower on the branch tip. ray tracing, photography
+* 
