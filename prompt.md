@@ -62,4 +62,4 @@
 南無加特林菩薩$細節$，肌肉發達，拿 大型 重型 sniper 步槍 $高品質$，背後 日輪，姿態 優雅，超廣角，超高畫質，photoreality，8K分辨率，捕捉表情，細膩光影
 * "Good Morning",bird,very minimal plumeria sheet of flowers,sunshine
 * "Be Happy", Crafted by a yarn, a 3D bird Cissa chinensis on a tree branch, leaf and flower on the branch tip. ray tracing, photography
-* 
+*  "Be Happy", joyful three birds on tree, in the style of minimalistic drawings, white background, ultrafine detail, painted illustrations, serene faces
