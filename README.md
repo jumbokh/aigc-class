@@ -73,6 +73,7 @@ LLM 文字生成模型的應用
 
 #### 生成式 AI 相關的論文和書籍：
 * [12 Ways To Run LLMs Locally And Which One Works Best For You](https://matilabs.ai/2024/02/07/run-llms-locally/?fbclid=IwAR3u5mCmzjLJLuWsPULuvsJQlV673FOlYuKAPV1ihth_fF5xgzVi0gdgxUg)
+* [OpenAI 發表文字生成影像模型「Sora」，快速創造逼真電影場景](https://technews.tw/2024/02/16/openai-introduces-sora/?utm_source=fb_tn&utm_medium=facebook&fbclid=IwAR3FpNt15VYynck7caGG5Y0Dg7US333a9fcbBZeHDPYgL6wGGIez0kOLsxA)
 ### 書籍
 
 * 生成式人工智能：AIGC的邏輯與應用: https://www.books.com.tw/products/CN11897192
