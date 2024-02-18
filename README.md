@@ -72,7 +72,7 @@ LLM 文字生成模型的應用
 ### References
 
 #### 生成式 AI 相關的論文和書籍：
-
+* [12 Ways To Run LLMs Locally And Which One Works Best For You](https://matilabs.ai/2024/02/07/run-llms-locally/?fbclid=IwAR3u5mCmzjLJLuWsPULuvsJQlV673FOlYuKAPV1ihth_fF5xgzVi0gdgxUg)
 ### 書籍
 
 * 生成式人工智能：AIGC的邏輯與應用: https://www.books.com.tw/products/CN11897192
