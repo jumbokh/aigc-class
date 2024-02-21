@@ -70,7 +70,14 @@ LLM 文字生成模型的應用
 提升解決問題的能力和創造力
 ```
 ### References
-
+* [ChatGPT 被锁中国区 ip](https://juejin.cn/post/7216769618705809469)
+```
+Chatgpt 账号注册
+使用 Chatgpt 的时候，经常被锁中国区 ip 怎么解
+一个好的问题应该如何询问？
+如何获取 openapi key & 我们能用它来干什么
+openai 常规 & 流式接入
+```
 #### 生成式 AI 相關的論文和書籍：
 * [12 Ways To Run LLMs Locally And Which One Works Best For You](https://matilabs.ai/2024/02/07/run-llms-locally/?fbclid=IwAR3u5mCmzjLJLuWsPULuvsJQlV673FOlYuKAPV1ihth_fF5xgzVi0gdgxUg)
 * [OpenAI 發表文字生成影像模型「Sora」，快速創造逼真電影場景](https://technews.tw/2024/02/16/openai-introduces-sora/?utm_source=fb_tn&utm_medium=facebook&fbclid=IwAR3FpNt15VYynck7caGG5Y0Dg7US333a9fcbBZeHDPYgL6wGGIez0kOLsxA)
