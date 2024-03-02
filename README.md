@@ -8,47 +8,11 @@
 掌握 Transformer 模型的架構和應用
 學習 LLM 文字生成模型的訓練和使用
 熟悉咒語改進等技術在生成式 AI 中的應用
-課程大綱：
 
-第一週：
+```
+## [課程大綱：](https://github.com/jumbokh/aigc-class/blob/main/Outline.md)
+```
 
-介紹生成式 AI
-Transformer 模型的架構和原理
-第二週：
-
-Transformer 模型的應用
-LLM 文字生成模型的介紹
-第三週：
-
-LLM 文字生成模型的訓練
-LLM 文字生成模型的應用
-第四週：
-
-咒語改進技術
-生成式 AI 的倫理和安全
-第五週：
-
-生成式 AI 在文本創作中的應用
-生成式 AI 在圖像生成中的應用
-第六週：
-
-生成式 AI 在音樂創作中的應用
-生成式 AI 在其他領域的應用
-第七週：
-
-生成式 AI 的最新發展
-生成式 AI 的未來展望
-第八週：
-
-期末專案
-課程安排：
-
-每週三小時，共 16 週
-課程形式：講授、實作、討論
-課程教材：
-
-生成式 AI 相關論文和書籍
-開源生成式 AI 工具和模型
 課程評分：
 
 平時表現：40%
@@ -70,7 +34,7 @@ LLM 文字生成模型的應用
 提升解決問題的能力和創造力
 ```
 ### References
-* [ChatGPT 被锁中国区 ip](https://juejin.cn/post/7216769618705809469)
+* [ChatGPT 中国区](https://juejin.cn/post/7216769618705809469)
 ```
 Chatgpt 账号注册
 使用 Chatgpt 的时候，经常被锁中国区 ip 怎么解
@@ -82,7 +46,7 @@ openai 常规 & 流式接入
 * [12 Ways To Run LLMs Locally And Which One Works Best For You](https://matilabs.ai/2024/02/07/run-llms-locally/?fbclid=IwAR3u5mCmzjLJLuWsPULuvsJQlV673FOlYuKAPV1ihth_fF5xgzVi0gdgxUg)
 * [OpenAI 發表文字生成影像模型「Sora」，快速創造逼真電影場景](https://technews.tw/2024/02/16/openai-introduces-sora/?utm_source=fb_tn&utm_medium=facebook&fbclid=IwAR3FpNt15VYynck7caGG5Y0Dg7US333a9fcbBZeHDPYgL6wGGIez0kOLsxA)
 ### 書籍
-
+* [課本目錄](https://github.com/jumbokh/aigc-class/blob/main/Book.md)
 * 生成式人工智能：AIGC的邏輯與應用: https://www.books.com.tw/products/CN11897192
      * 本書介紹了生成式人工智能（AIGC）的基本原理、技術和應用。AIGC 是一種能夠生成新資料的人工智能技術，它在自然語言處理、電腦視覺、音樂創作等領域有著廣泛的應用前景。
 * 擴散模型：生成式AI模型的理論、應用與代碼實踐: https://www.books.com.tw/products/CN11904844
