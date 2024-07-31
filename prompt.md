@@ -76,4 +76,4 @@
 * Text "Good Morning", make a stunning nature picture, photo, ultra hd, 4k
 * text "Good Morning", Morning dew drops on the leaves, micro photograpl, photography, detailed, Mist
 * text "Good Morning", Water droplet flowers are beautiful
-* 
+* chibi of student girl with white sleeve shirt peterpan collar and blue skirt with student bag on hand 3D model toy,on grey backgound,portrait,cool walk posture,full body，text "Wendy"
